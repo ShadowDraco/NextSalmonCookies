@@ -11,6 +11,18 @@
 
 Implement the “Salmon Cookies” application using Next.js, with all features from the original repo.
 
+### Features
+
+- Display Store Locations on Home Page
+- Implement Routes for Home and Store Locations
+- Display sales information for Store Locations
+- Add new store locations
+
+### Technologies Used
+
+- Next.js
+- TailwindCSS
+
 ### Links and Resources
 
 - [Original Salmon Cookies Repo](https://github.com/donnaada/cookie-stand)
@@ -24,4 +36,11 @@ Implement the “Salmon Cookies” application using Next.js, with all features 
 
 #### How to initialize/run your application
 
-- Run `npm i` and then `npm run dev`
+- Clone the repo & navigate into project directory
+- Run `npm i`
+- Then `npm run dev`
+
+### Routes
+
+- '/'
+- '/sales'
