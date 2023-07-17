@@ -42,5 +42,5 @@ Implement the “Salmon Cookies” application using Next.js, with all features 
 
 ### Routes
 
-- '/'
-- '/sales'
+- `/`
+- `/sales`
